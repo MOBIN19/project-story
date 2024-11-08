@@ -1,0 +1,219 @@
+@media screen and (width:1920px) {
+    .menu ul{font-size: 27px;}
+    .label-shop{font-size: 21px;}
+    .list-header1 li{font-size: 20px;}
+    .list-header1{margin-right: 6%;}
+    .product p {
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        font-size: 20px;
+    }
+    .products h2,.titr-articles{
+        font-size: 35px;
+    }
+    .slider-p {
+        width: 21.6rem;
+    }
+    .products {
+        height: 49rem;
+    }
+    .text-slider p {
+        font-size: 22px;
+    }
+    .prev-product,.next-product{font-size: 60px;}
+    .banner-1-2,.banner-2-2,.banner-1,.banner-2{height: 25rem;}
+    .titr-text{font-size: 35px;}
+    .text-box a{font-size: 20px;}
+    .slider-Articles{height: 72%;}
+    .slider-a{width: 26.5rem;}
+    .text-imag{font-size: 22px;}
+    .text-slider-article span {font-size: 19px;}
+    #select-filter{font-size: 23px;}
+}
+@media screen and (width:1440px) {
+    .slider-p{width: 16rem;}
+    .slider-a {width: 19rem;}
+    
+}
+@media screen and (width:1600px) {
+    .slider-a {width: 22rem;}
+    .slider-p {width: 18rem;}
+    .products{height: 44rem;}
+    .menu ul {font-size: 20px;}
+    .label-shop{font-size: 17px;}
+    .list-header1 li {font-size: 17px;}
+    
+}
+@media screen and (width:1280px) {
+    .slider-p{width: 14.1rem;}
+    .slider-a{width: 17rem;}
+    .slider-Articles{height: 70%;}
+    
+}
+@media screen and (max-width:1118px) {
+    .label-shop{font-size: 17px;}
+    .list-header1{margin:0 3%;}
+}
+@media screen and (max-width:1080px) {
+    .list-header1{margin-right: 4%;}
+    .banner-1,.banner-2{height: 230px;}
+    .titr-text{font-size: 20px;}
+    .text-box{padding: 2rem 1rem;}
+    .text-box a{font-size: 14px;}
+    
+}
+@media screen and (max-width:1024px) {
+    .label-shop {font-size: 16px; }
+    .products{height: 50rem;}
+    .slider-p{width: 305px;}
+    .text-box{padding: 2.5rem 1rem;}
+    .titr-text{font-size: 17px;}
+    .text-box a{font-size: 13px;}
+    
+}
+@media screen and (max-width:810px) {
+    .text-box a {
+        font-size: 10px;
+    }
+    .label-shop {
+        font-size: 12px;
+    }
+    .products {
+        height: 40rem;
+    }
+    .slider-p {
+        width: 240px;
+    }
+    .slider-a{width: 23rem;}
+    .slider-Articles{padding: 0 0;}
+    .footer h2{font-size: 20px;}
+    .footer a, .footer p{
+        line-height: normal;
+        font-size: 12px;
+    }
+    .text-slider a {font-size: 11px;}
+    .Article{width: 47%;}
+    
+}
+@media screen and (max-width:768px) {
+    .row{display: flex; flex-direction: column;}
+    .banner-1, .banner-2,.banner-1-2,.banner-2-2 {width: 100%;}
+    .titr-text {font-size: 26px;}
+    .text-box a {font-size: 15px;}
+    .slider-p {width: 227px;}
+    .Articles {margin: 4rem 0 0 1rem;}
+    .slider-a{width: 22rem;}
+    .footer h2{font-size: 14px;}
+    .menu ul {font-size: 15px;}
+    .header-mobile{display: block !important;}
+    .header2{display: none;}
+    .header1{display: none;}
+    .menu-mobile{z-index: 1;}
+    .container{margin-top: 17%;}
+    .container-abuot{margin-top: 14%;}
+    .about{margin-bottom: 4%;}
+    .container-nuts,.container-dry-fruit,.container-dry-goods{margin-top: 14%;}
+    .product-nut,.product-drygood,.product-dryfruit{width: 43%;}
+    .image-page{margin-top: 6.5rem;}
+    .container-contactus{margin-top: 14.5%;}
+}
+
+@media screen and (max-width:414px) {
+    .min-header,.container{width: 102%;}
+    .products{height: 31rem;}
+    .Product-categories{ grid-template-columns: 10px repeat(4, 25%) 10px;}
+    .product p{font-size: 12px; margin-top: 0;}
+    .row{padding: 0;}
+    .banner-1,.banner-2,.banner-1-2,.banner-2-2 {
+        height: 160px;
+    }
+    .Product-categories .product{height: 15rem;}
+    .titr-text {
+        font-size: 16px;
+    }
+    .text-box a {
+        font-size: 11px;
+    }
+    .slider-p {
+        width: 184px;
+    }
+    .prev-product {
+        left: -2%;
+    }
+    .next-product {
+        right: 1%;}
+        .products{margin: 0 1rem;}
+        .slider-a {width: 24rem;}
+        .next-article{right: 1.5%;}
+        .footer{padding: 1rem 1rem;}
+        .footer-aboutus{width: 100%;}
+        .footer-contactus,.Relatedlinks,.Permissions{display: none;}
+        .logo-m {
+            margin: -8% 37% 0 0;
+            width: 20%;
+        }
+        .label-shop-m {font-size: 14px;}
+        .contact-nuts,.contact-drygoods,.contact-dryfruit{flex-direction: column; gap: 2rem;}
+        .product-nut,.product-drygood,.product-dryfruit{
+                width: 100%;
+            }
+            .container-dry-fruit,.container-dry-goods{margin: 10% 0;}
+            .Article {
+                width: 100%;
+            }
+            .container-contactus {
+                margin-top: 15.5%;
+            }
+            .name,.email,.subject,.text-moshtari,.sabt{width: 100%;}
+            
+}
+@media screen and (max-width:430px) {
+    .min-header,.container{width: 101.3%;}
+    .titr-text {
+        font-size: 15px;
+    }
+    .text-box a {
+        font-size: 10px;
+    }
+    .row{padding: 0;}
+    .banner-1, .banner-2 {
+        height: 220px;
+    }
+    .Product-categories{grid-template-columns: 10px repeat(4, 25%) 20px;}
+    .Product-categories p{font-size: 12px;}
+    .slider-p {
+        width: 186px;
+    }
+    .products {
+        height: 35rem;
+    }
+    .slider-a {
+        width: 25.5rem;
+    }
+    .footer-contactus,.Relatedlinks,.Permissions{display: none;}
+    .footer-aboutus{width: 100%;}
+}
+@media screen and (max-width:390px) {
+    .Product-categories {
+        grid-template-columns: 5px repeat(4, 25%) 5px;
+    }
+    .slider-p {
+        width: 174px;
+    }
+    .slider-a {
+        width: 22.6rem;
+    }
+    
+}
+@media screen and (max-width:360px) {
+    .slider-p{width:177px}
+    .slider-a {width: 23rem;}
+    .text-box a {font-size: 10px;}
+    .products {margin: 0 0.5rem;}
+    .slider-p {width: 163px;}
+    .slider-a {width: 20.8rem;}
+    
+}
+
+    
+
